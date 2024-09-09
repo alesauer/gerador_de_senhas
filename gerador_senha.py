@@ -12,6 +12,7 @@ Instagram: https://www.instagram.com/prof.alesauer/
 Facebook: https://www.facebook.com/prof.alesauer/
 YouTube:  https://www.youtube.com/@prof.alesauer
 LinkedIn: www.linkedin.com/in/alesauer
+By sauer
 """
 
 import random
